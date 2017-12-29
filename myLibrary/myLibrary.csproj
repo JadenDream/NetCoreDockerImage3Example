@@ -11,9 +11,6 @@
     <Reference Include="MyDBClientTestLibrary">
       <HintPath>..\Librarys\MyDBClientTestLibrary.dll</HintPath>
     </Reference>
-    <Reference Include="SGT.DBHandlers">
-      <HintPath>..\Librarys\SGT.DBHandlers.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
 </Project>

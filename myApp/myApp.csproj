@@ -15,14 +15,6 @@
     <Reference Include="MyDBClientTestLibrary">
       <HintPath>..\Librarys\MyDBClientTestLibrary.dll</HintPath>
     </Reference>
-    <Reference Include="SGT.DBHandlers">
-      <HintPath>..\Librarys\SGT.DBHandlers.dll</HintPath>
-      <Private>true</Private>
-    </Reference>
-    <Reference Include="XSG.CSDPS.StoreProcedure">
-      <HintPath>..\Librarys\XSG.CSDPS.StoreProcedure.dll</HintPath>
-      <Private>true</Private>
-    </Reference>
   </ItemGroup>
 
   <PropertyGroup>
