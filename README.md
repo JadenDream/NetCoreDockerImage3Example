@@ -3,7 +3,7 @@ NetCore c# 練習使用 SqlClient
 
 # docker 編譯與執行說明 #
 ## docker 編譯
-<pre>docker build -t dotnetmyapp4</pre>
+<pre>docker build -t dotnetmyapp4 .</pre>
 
 執行成功會有以下訊息 (20ae9d152e3d 這個每次編譯都不一樣得值)
 <pre>
